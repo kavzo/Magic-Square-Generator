@@ -1,6 +1,6 @@
-# Problem-ALG004r
-Psybergate’s Graduate Programme assessment.
+# Magic square generator
 
+With the number "1" being in a predetermined position.
 The program asks the user to enter a value (from 0 to 3) for rotation where: 
 if rotation = 0, then the starting 1 is top middle;
 If rotation = 1, then the starting 1 is right middle;
